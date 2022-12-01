@@ -12,6 +12,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0055648017" />
+          </Key>
+        </key>
+        <name value="motorola motorola one" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
