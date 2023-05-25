@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="1WMHHA61CH2031" />
+          </Key>
+        </key>
+        <name value="Oculus Quest 2" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="84673e61120" />
           </Key>
         </key>
