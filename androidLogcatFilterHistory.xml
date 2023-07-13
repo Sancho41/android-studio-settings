@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="LoggingInterceptor" />
     <option name="nonFavorites">
       <list>
+        <option value="LoggingInterceptor" />
+        <option value="com.sipag" />
         <option value="tag~:ParamRule" />
         <option value="ParamRu" />
         <option value="tag~:ParamRule " />
